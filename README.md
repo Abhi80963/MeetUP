@@ -2,7 +2,7 @@
 
 # Meetup
 
-![Meetup - Modern Next.js powered Video calling app](/.github/images/img_main.png "Meetup - Modern Next.js powered Video calling app")
+![Meetup - Modern Next.js powered Video calling app]( / "Meetup - Modern Next.js powered Video calling app")
 
 
 <!-- Table of Contents -->
@@ -184,36 +184,6 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel")
 
 
-
-## :gem: Acknowledgements
-
-Useful resources and dependencies that are used in Yoom.
-
-- [@clerk/nextjs](https://www.npmjs.com/package/@clerk/nextjs): ^5.1.3
-- [@radix-ui/react-dialog](https://www.npmjs.com/package/@radix-ui/react-dialog): ^1.0.5
-- [@radix-ui/react-dropdown-menu](https://www.npmjs.com/package/@radix-ui/react-dropdown-menu): ^2.0.6
-- [@radix-ui/react-slot](https://www.npmjs.com/package/@radix-ui/react-slot): ^1.0.2
-- [@radix-ui/react-toast](https://www.npmjs.com/package/@radix-ui/react-toast): ^1.1.5
-- [@stream-io/node-sdk](https://www.npmjs.com/package/@stream-io/node-sdk): ^0.2.3
-- [@stream-io/video-react-sdk](https://www.npmjs.com/package/@stream-io/video-react-sdk): ^1.0.13
-- [class-variance-authority](https://www.npmjs.com/package/class-variance-authority): ^0.7.0
-- [clsx](https://www.npmjs.com/package/clsx): ^2.1.1
-- [lucide-react](https://www.npmjs.com/package/lucide-react): ^0.379.0
-- [next](https://www.npmjs.com/package/next): 14.2.3
-- [react](https://www.npmjs.com/package/react): ^18
-- [react-datepicker](https://www.npmjs.com/package/react-datepicker): ^6.9.0
-- [react-dom](https://www.npmjs.com/package/react-dom): ^18
-- [tailwind-merge](https://www.npmjs.com/package/tailwind-merge): ^2.3.0
-- [tailwindcss-animate](https://www.npmjs.com/package/tailwindcss-animate): ^1.0.7
-- [@types/node](https://www.npmjs.com/package/@types/node): ^20
-- [@types/react](https://www.npmjs.com/package/@types/react): ^18
-- [@types/react-datepicker](https://www.npmjs.com/package/@types/react-datepicker): ^6.2.0
-- [@types/react-dom](https://www.npmjs.com/package/@types/react-dom): ^18
-- [eslint](https://www.npmjs.com/package/eslint): ^8
-- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 14.2.3
-- [postcss](https://www.npmjs.com/package/postcss): ^8
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
-- [typescript](https://www.npmjs.com/package/typescript): ^5
 
 
 
