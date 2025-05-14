@@ -2,7 +2,7 @@
 
 # Meetup
 
-![Meetup - Modern Next.js powered Video calling app]( / "Meetup - Modern Next.js powered Video calling app")
+![Meetup - Modern Next.js powered Video calling app]("Meetup - Modern Next.js powered Video calling app")
 
 
 <!-- Table of Contents -->
